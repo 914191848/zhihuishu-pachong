@@ -8,3 +8,11 @@
 智慧树视频爬虫脚本json文件处理.ipynb：提前视频真实播放地址与视频名称，用于后续修改下载视频名称。
 
 renumber_videos.py：将重命名后视频编号格式由 x.x --> xx.xx
+
+## 视频下载：
+
+配合浏览器插件下载，推荐
+
+[专业视频下载](https://microsoftedge.microsoft.com/addons/detail/ddgjlnkidfeigabohlnndegiaggikaod)
+
+[猫抓](https://github.com/xifangczy/cat-catch)
