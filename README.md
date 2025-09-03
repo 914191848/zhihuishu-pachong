@@ -11,7 +11,7 @@ renumber_videos.py：将重命名后视频编号格式由 x.x --> xx.xx
 
 ## 视频下载：
 
-配合浏览器插件下载，推荐
+需要浏览器网页登录的环境，使用浏览器插件下载，嗅探插件推荐：
 
 [专业视频下载](https://microsoftedge.microsoft.com/addons/detail/ddgjlnkidfeigabohlnndegiaggikaod)
 
